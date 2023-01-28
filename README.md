@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yassineuav
 - 👀 I’m interested in JAVA AND PYTHON
-- 🌱 I’m currently learning VR AR METAVERS
-- 💞️ I’m looking to collaborate on GAMING WITH UNREAL ENGIEN GAMING
+- 🌱 I’m currently learning AI with python
+- 💞️ I’m looking to collaborate on a delivery project using AI, Self Driver delivery Cars and Drones.
 - 📫 How to reach me 7208093241 , yassineuav@gmail.com or https://siham.tech
 
 <!---
