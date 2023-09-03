@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yassineuav
+- 👋 Hi, I’m Yassine Khaidouch 
 - 👀 I’m interested in JAVA, KOTLIN, C/C++, JS, TYPESCRIPT AND PYTHON
 - 🌱 I’m currently learning AI&ML/DL with python
 - 💞️ I’m looking to collaborate on a delivery project using AI, Self Driver delivery Cars and UAV Drones.
